@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "fragrant-fog-d45b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5ec236cd-fb21-46bf-a2d6-1deaea7e2ef7",
+      "database_name": "fragrant-fog-d45b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
